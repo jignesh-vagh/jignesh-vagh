@@ -1,7 +1,7 @@
 Hi 👋 My name is Jignesh Vagh
 =============================
 
-Team Lead | Linux & Leadership Specialist | AD0-E719 - Adobe Certified Professional | PHP | MySQL | Angular | Nodejs | ReactJs (Beginner)
+Team Lead | Expert in Linux & Leadership | Adobe Certified Professional (AD0-E719) | Skilled in PHP, MySQL, Angular, and Magento 2.x (Magento Cloud)
 --------------------
 
 - I have over 12 years of experience in web development, and I currently lead a team of talented developers at Priya Softweb Solutions, a leading IT company that provides innovative solutions to global clients. We work with agile methodologies and Linux systems to deliver high-quality web applications and websites for various industries and domains.
