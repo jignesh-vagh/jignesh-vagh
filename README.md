@@ -9,7 +9,7 @@ Team Lead | Expert in Linux & Leadership | Adobe Certified Professional (AD0-E71
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [jignesh.vagh@gmail.com](mailto:jignesh.vagh@gmail.com)
-*   🚀  I'm currently working on [Priya Softweb Solutions Pvt. Ltd. ](https://softwebsolutions.com) 
+*   🚀  I'm currently working in [Priya Softweb Solutions Pvt. Ltd. ](https://softwebsolutions.com) 
 *   🧠  I'm learning ReactJs
 *   🤝  I'm open to collaborating on Indie-Hacking Interesting Projects
 *   ⚡  I love Travelling, Paying Games
